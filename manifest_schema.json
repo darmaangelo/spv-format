@@ -1,0 +1,21 @@
+{
+  "title": "Sample .Spv Project",
+  "default_layout": "multiview",
+  "pov_switch_mode": "manual",
+  "default_focus": "POV01",
+  "transitions": "fade",
+  "clips": [
+    {
+      "name": "POV01",
+      "file": "clips/pov01.mp4",
+      "offset_sec": 0,
+      "position": "front"
+    },
+    {
+      "name": "POV02",
+      "file": "clips/pov02.mp4",
+      "offset_sec": -2,
+      "position": "left"
+    }
+  ]
+}
