@@ -18,14 +18,19 @@ Unlike `.mp4`, `.spv` is designed to **tell a story from multiple perspectives �
 ---
 
 ## 📁 File Structure
-project.spv/
-├── clips/
-│ ├── pov01.mp4
-│ ├── pov02.mp4
-│ └── audio_mix.mp3
-├── manifest.json
-└── preview.jpg
+📁 project.spv
 
+├── 📁 clips
+
+│   ├── pov01.mp4
+
+│   ├── pov02.mp4
+
+│   └── audio_mix.mp3
+
+├── manifest.json
+
+└── preview.jpg
 
 ---
 
@@ -34,6 +39,7 @@ project.spv/
 - 🧠 Zoom meeting replay from all participants
 - 🏠 Home documentary with POV switch
 - 🕵️‍♂️ Forensics / CCTV incident review
+- 🎞️ Immersive multi-angle movie experience
 
 ---
 
