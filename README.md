@@ -40,6 +40,7 @@ Unlike `.mp4`, `.spv` is designed to **tell a story from multiple perspectives �
 - 🏠 Home documentary with POV switch
 - 🕵️‍♂️ Forensics / CCTV incident review
 - 🎞️ Immersive multi-angle movie experience
+- 👓 VR Experience
 
 ---
 
